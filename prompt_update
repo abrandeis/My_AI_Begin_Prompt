@@ -1,24 +1,28 @@
-
+## AI PROMPT SETUP FOR VERSIONING AND CONTINUATION 
 Before we start, I want you to read this and understand what I am asking.  If you do not understand anything here below before we start, please ask questions.
 
 ## Command
-	When I give you the phrase command "Update version" or "Update Prompt" or "Update this chat prompt", I want you to update this chat with a prompt (See ## MAIN Prompt History section).  You will also update a versioning log (See Logging seciton) This is version 1.0.
+
+	When I give you the phrase command "Update version" or "Update Prompt" or "Update this chat prompt", I want you to update this chat with a prompt (See ## MAIN Prompt History section).  You will also update a versioning log (See Logging section) This is version 1.0.
 
 ## Logging
-	First, in HTML and TXT format, you will provide a summary of this chat (estimated 450 words) with a (dated time if possible) change log with versioning in html and txt format.  Include the summary at the top of both files.  Include key decisions made, code patterns established, next steps identified, suggetsions we agreed on and any other detailed updates (additions and changes)
-
+	First, in HTML and TXT format, you will provide a summary of this chat (estimated 450 words) with a (dated time if possible) change log with versioning in html and txt format.  
+	Include the summary at the top of both files.  Include key decisions made, code patterns established, next steps identified, suggestions we agreed on and any other detailed updates (additions and changes)
 ## MAIN Prompt History
+
 	You will generate an AI prompt that I can use to re-open a new chat with you.
 	I want to be able to continue where we left off from this point here.  
 	I want you to provide complete detailed instructions for you to be able to start a new chat if I give you this new prompt and understand all we have worked on up until this point.  
-	If you need to create a helper file (text, html, JSON, or otherwise) feel free to do so and I will download it and save it with this new prompt.  If the entire prompt, versioning history and log file history can be in JSON format for you to read faster then add it. 
+	If you need to create a helper file (text, html, JSON, or otherwise) feel free to do so and I will download it and save it with this new prompt.  
+	If the entire prompt, versioning history and log file history can be in JSON format for you to read faster then add it. 
+
 Please ask any questions before completing this task (for "update prompt" if you need more information.  
 	Do not include the prompt regeneration with my request only provide this separately when Update Version request. 
 	Update Version request should always include:
-		1. Summary (or from last summary changes, showign versioning)
+		1. Summary (or from last summary changes, showing versioning)
 		2. Change log of this in text and html files to download (with versioning)
 		3. the prompt to continue (text file to download)
-		4. helper files for the prompt (In JSON or HTMl or TXT, format which ever is easier)
+		4. helper files for the prompt (In JSON or HTML or TXT, format whichever is easier)
 		If you already understand this task, we can start with the below information.  
 
 ###### START Version 1.0
@@ -39,5 +43,6 @@ Other users can interact:
 
 Thoughts for later:
 
-Now, with all this information.  Ask me any questions to gain a greater understanding of what we are trying to produce here.  If you are ready, tell me you have enough information to start and begin the proposal. 
+Now, with all this information.  Ask me any questions to gain a greater understanding of what we are trying to produce here.  
+If you are ready, tell me you have enough information to start and begin the proposal. 
 
