@@ -6,9 +6,11 @@ Before we start, I want you to read this and understand what I am asking.  If yo
 	When I give you the phrase command "Update version" or "Update Prompt" or "Update this chat prompt", I want you to update this chat with a prompt (See ## MAIN Prompt History section).  You will also update a versioning log (See Logging section) This is version 1.0.
 
 ## Logging
+
 	First, in HTML and TXT format, you will provide a summary of this chat (estimated 450 words) with a (dated time if possible) change log with versioning in html and txt format.  
 	Include the summary at the top of both files.  Include key decisions made, code patterns established, next steps identified, suggestions we agreed on and any other detailed updates (additions and changes)
 ## MAIN Prompt History
+
 
 	You will generate an AI prompt that I can use to re-open a new chat with you.
 	I want to be able to continue where we left off from this point here.  
